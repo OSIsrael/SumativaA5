@@ -1,0 +1,7 @@
+{
+  "name": "SumativaNotificaciones",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
